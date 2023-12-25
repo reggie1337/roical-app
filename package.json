@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://reggie1337.github.io/riocal-app",
+  "homepage": "https://reggie1337.github.io",
   "scripts": {
     "predeploy":"npm run build",
     "deploy": "gh-pages -b master -d build",
